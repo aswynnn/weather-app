@@ -6,7 +6,7 @@ In the index.js, give your actual API key in the space.
 
 
 Clone the repository:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/aswynnn/weather-app.git
 Navigate into the project folder:
 cd weather-app
 Open index.html in your browser.
